@@ -1,5 +1,5 @@
-# Proyecto1Web
-Replica de Página 
+# Proyecto 1
+Replica de Página Web
 
 #Tecnologías utilizadas:
 1. React
